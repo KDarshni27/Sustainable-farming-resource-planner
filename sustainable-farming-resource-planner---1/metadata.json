@@ -1,0 +1,5 @@
+{
+  "name": " Sustainable Farming Resource Planner - 1",
+  "description": "An interactive web application demonstrating a classical AI planner for scheduling irrigation, fertilization, and harvesting for multiple crop fields under resource constraints. Visualize the generated plan with a dynamic Gantt chart.",
+  "requestFramePermissions": []
+}
